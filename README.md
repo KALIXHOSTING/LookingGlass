@@ -4,7 +4,7 @@
 
 # LOOKING GLASS
 
-LOOKING GLASS FOR LATEST PHP 7.0 - 8.1
+LOOKING GLASS FOR LATEST PHP 7-8.1
 
 ## Authors
 
@@ -14,6 +14,8 @@ LOOKING GLASS FOR LATEST PHP 7.0 - 8.1
 ## Installation
 Download Project as Zip Unzip and UPLOAD TO HOST
 
+[DOWNLOAD ZIP FROM GITHUB](https://github.com/KALIXHOSTING/LookingGlass/archive/refs/heads/main.zip) 
+
 Install Script Run command below
 
 
@@ -22,9 +24,7 @@ Install Script Run command below
 
 chmod 777 ./configure.sh
 
-then run
-
-./configure.sh
+then run ./configure.sh
 
 ```
 Follow Prompts to install required packages and Test Files    ### Credits
