@@ -32,7 +32,7 @@ Follow Prompts to install required packages and Test Files
 
 [Looking Glass](https://lg.nyc.kalixhosting.com) 
 
-![Looking Glass](https://kalixhosting.com/img/lookingglass.png)
+![Looking Glass](https://kalixhosting.com/img/lookingglassnyc.png)
 
 
 ### Credits
