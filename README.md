@@ -36,7 +36,7 @@ Follow Prompts to install required packages and Test Files
 ### Credits
 This project is inspired by the [LookingGlass project](https://github.com/telephone/LookingGlass) of @telephone and uses his procExecute() function, although slightly modified.
 
-And to [@Hybula](https://github.com/hybula) for Bootstrap Styled
+And to [@Hybula](https://github.com/hybula/lookingglass) for Bootstrap Styled
 
 ### License
 Mozilla Public License Version 2.0
