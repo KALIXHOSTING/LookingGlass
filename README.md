@@ -1,2 +1,42 @@
-# LookingGlass
-Looking Glass Ping Mtr TraceRoute Speediest
+
+![Logo](https://kalixhosting.com/img/kalixhostinglogo.png)
+
+
+# LOOKING GLASS
+
+LOOKING GLASS FOR LATEST PHP 7.0 - 8.1
+
+## Authors
+
+- [@maven_htx](https://instagram.com/maven_htx)
+
+
+## Installation
+Download Project as Zip Unzip and UPLOAD TO HOST
+
+Install Script Run command below
+
+
+```bash
+
+
+chmod 777 ./configure.sh
+
+then run ./configure.sh
+
+```
+Follow Prompts to install required packages and Test Files    ### Credits
+This project is inspired by the [LookingGlass project](https://github.com/telephone/LookingGlass) of @telephone and uses his procExecute() function, although slightly modified.
+
+And to [@Hybula](https://github.com/hybula) for Bootstrap Styled
+
+### License
+Mozilla Public License Version 2.0
+## Demo
+
+[Looking Glass](https://lg.denver.kalixhosting.com) 
+
+![Looking Glass](https://kalixhosting.com/img/lookingglass.png)
+
+## 🔗 Links
+KALIXHOSTING https://kalixhosting.com/
