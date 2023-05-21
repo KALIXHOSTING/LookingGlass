@@ -33,6 +33,7 @@ Follow Prompts to install required packages and Test Files
 [Looking Glass](https://lg.nyc.kalixhosting.com) 
 
 ![Looking Glass](https://kalixhosting.com/img/lookingglass.png)
+
 ### Credits
 This project is inspired by the [LookingGlass project](https://github.com/telephone/LookingGlass) of @telephone and uses his procExecute() function, although slightly modified.
 
