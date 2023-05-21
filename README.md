@@ -22,7 +22,9 @@ Install Script Run command below
 
 chmod 777 ./configure.sh
 
-then run ./configure.sh
+then run
+
+./configure.sh
 
 ```
 Follow Prompts to install required packages and Test Files    ### Credits
