@@ -27,18 +27,18 @@ chmod 777 ./configure.sh
 then run ./configure.sh
 
 ```
-Follow Prompts to install required packages and Test Files    ### Credits
+Follow Prompts to install required packages and Test Files    
+## Demo
+
+[Looking Glass](https://lg.denver.kalixhosting.com) 
+
+![Looking Glass](https://kalixhosting.com/img/lookingglass.png)
+### Credits
 This project is inspired by the [LookingGlass project](https://github.com/telephone/LookingGlass) of @telephone and uses his procExecute() function, although slightly modified.
 
 And to [@Hybula](https://github.com/hybula) for Bootstrap Styled
 
 ### License
 Mozilla Public License Version 2.0
-## Demo
-
-[Looking Glass](https://lg.denver.kalixhosting.com) 
-
-![Looking Glass](https://kalixhosting.com/img/lookingglass.png)
-
 ## 🔗 Links
 KALIXHOSTING https://kalixhosting.com/
