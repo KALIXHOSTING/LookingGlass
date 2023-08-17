@@ -1,5 +1,5 @@
 
-![Logo](https://kalixhosting.com/img/kalixhostinggitlogo.png)
+![Logo](https://kalixhosting.com/img/logo.svg)
 
 
 # LOOKING GLASS
