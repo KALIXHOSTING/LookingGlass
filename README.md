@@ -30,7 +30,7 @@ then run ./configure.sh
 Follow Prompts to install required packages and Test Files    
 ## Demo
 
-[Looking Glass](https://lg.nyc.kalixhosting.com) 
+[Looking Glass](https://lg.kalixhosting.com) 
 
 ![Looking Glass](https://kalixhosting.com/img/lookingglassnyc.png)
 
